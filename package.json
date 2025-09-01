@@ -1,0 +1,10 @@
+{
+  "name": "mahiya-letter",
+  "version": "1.0.0",
+  "description": "A special letter for Mahiya 💌 (Deploy on Vercel)",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
